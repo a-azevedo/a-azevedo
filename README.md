@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @a-azevedo.
+- 👋 Hi, I’m a Full Stack Developer and my name is Ael Azevedo.
 - 👀 I’m interested in all sort of techs, games and culture.
 - 🌱 Living, learning, & leveling up one day at a time. 
 - 💞️ I’m looking to collaborate on some nice project. 
